@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://discord.gg/EJuBGQdqQX"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-   <a href="https://github.com/Sdeyy"><img alt="followers" title="Sigueme en Github" src="https://img.shields.io/github/followers/bungeees?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+   <a href="https://github.com/Sdeyy"><img alt="followers" title="Sigueme en Github" src="https://img.shields.io/github/followers/Sdeyy?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
  </p>
  
 ## Herramientas
