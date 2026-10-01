@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/EJuBGQdqQX">
+  <a href="https://discord.gg/DRPfw5SnJx">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://github.com/Sdeyy?tab=followers">
@@ -54,7 +54,7 @@
 
 ## ¿Hablamos?
 
-Si quieres colaborar en un proyecto, necesitas ayuda con un bot o simplemente quieres saludar, puedes encontrarme en [Discord](https://discord.gg/EJuBGQdqQX).
+Si quieres colaborar en un proyecto, necesitas ayuda con un bot o simplemente quieres saludar, puedes encontrarme en [Discord](https://discord.gg/DRPfw5SnJx).
 
 <p align="center">
   <i>Construyendo herramientas útiles, una comunidad a la vez.</i>
