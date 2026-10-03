@@ -16,7 +16,7 @@
   <a href="https://github.com/Sdeyy?tab=followers">
     <img src="https://img.shields.io/github/followers/Sdeyy?style=for-the-badge&logo=github&label=Seguidores&color=24292f" alt="Seguidores de GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Sdeyy&style=for-the-badge&color=5865F2&label=VISITAS" alt="Visitas al perfil" />
+  <img src="https://komarev.com/ghpvc/?username=Sdeyy&style=for-the-badge&color=5865F2&label=VISITAS&v=1" alt="Visitas al perfil" />
 </p>
 
 ## Sobre mí
