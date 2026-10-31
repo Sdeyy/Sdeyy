@@ -6,7 +6,7 @@
 
 <p align="center">
   Desarrollo bots de Discord, automatizaciones y herramientas para comunidades.<br />
-  También exploro proyectos con Java, Python, C++ y Minecraft.
+  También exploro proyectos con Java, Python, C++, GO y React.
 </p>
 
 <p align="center">
