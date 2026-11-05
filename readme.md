@@ -42,7 +42,11 @@
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,discordjs,mongodb,html,css,python,java,cpp,git,github,vscode" alt="Tecnologías que utilizo" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,discordjs,mongodb,html,css,python,java,cpp,git,github,vscode" alt="Tecnologías que utilizo" />
+  <br />
+  <a href="https://www.seyfert.dev/">
+    <img src="https://img.shields.io/badge/Seyfert-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Seyfert" />
+  </a>
 </p>
 
 ## Estadísticas
