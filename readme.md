@@ -49,7 +49,7 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Sdeyy&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sdeyy&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Lenguajes más utilizados" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sdeyy&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&hide=css" alt="Lenguajes más utilizados" />
 </p>
 
 ## ¿Hablamos?
