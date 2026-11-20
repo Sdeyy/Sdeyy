@@ -32,7 +32,7 @@
 | --- | --- | --- |
 | [**Tickets-Bot**](https://github.com/Sdeyy/Tickets-Bot) | Sistema de tickets completo para Discord con dashboard web autohospedado. | `discord.js v14` · `JavaScript` · `EJS` · `CSS` |
 | [**Fichi**](https://github.com/Sdeyy/Fichi) | Bot multipropósito pensado para convertirse en una buena incorporación para cualquier servidor. | `JavaScript` · `Node.js` |
-| [**Suggestion-Bot**](https://github.com/Sdeyy/Suggestion-Bot) | Sistema de sugerencias con botones y persistencia en MongoDB. | `JavaScript` · `MongoDB` |
+| [**nMines**](https://github.com/Sdeyy/nMines) | Plugin de gestión de minas para Minecraft con regiones configurables, recompensas y menús de inventario. | `Java` · `Bukkit/Spigot` · `Paper` |
 | [**Treecapitator**](https://github.com/Sdeyy/Treecapitator) | Mod para talar árboles completos sin tener que romper cada bloque. | `Java` · `Minecraft` |
 
 <p align="center">
